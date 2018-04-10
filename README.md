@@ -1,3 +1,6 @@
 # project Mars.
-<center>Сontrol and maintenance system.</center>
-The possibility of connecting systems based on OS: Windows, Linux, MacOS.
+Сontrol and maintenance system.
+The possibility of connecting systems based on OS:
+<li> Windows 
+<li> Linux 
+<li> MacOS
