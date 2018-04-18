@@ -1,5 +1,5 @@
-# project Mars.
-Сontrol and maintenance system.
+# project MARS.
+MAnagement Resource System.
 
 The possibility of connecting systems based on OS:
 <li> Windows 
